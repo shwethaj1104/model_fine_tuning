@@ -1,0 +1,3 @@
+# Baseline Transformers version used in the user-completed Colab GPU run.
+# Use Colab's preinstalled GPU-compatible torch rather than replacing its CUDA build.
+transformers==4.57.1
