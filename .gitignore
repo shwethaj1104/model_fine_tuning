@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+.cache/
+.ipynb_checkpoints/
+artifacts/*
+!artifacts/.gitkeep
+model/*
+!model/README.md
