@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo-001",
+    "ticket": "Our staging webhook setup guide mentions a signing secret. Where do we configure it?"
+  },
+  {
+    "id": "demo-002",
+    "ticket": "The production dashboard freezes whenever we sort by account name. Nobody can finish the report."
+  }
+]
