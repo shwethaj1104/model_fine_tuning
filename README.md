@@ -1,4 +1,4 @@
-# Ticket Triage — small-model fine-tuning portfolio
+# Ticket Triage - model fine-tuning portfolio
 
 Turn a support ticket into structured routing and extraction results using a small language model. Start with `Qwen/Qwen3-0.6B`, compare a prompted baseline with a LoRA adapter, and publish measured results.
 
